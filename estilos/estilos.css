@@ -53,6 +53,12 @@ text-shadow: 0 0 4px;
     background-position: center;
     background-size: cover; 
 }
+@media only screen and (max-width: 510px){
+    .cards{ display: flex;
+        flex-direction: column !important;
+        align-items: center !important;
+}
+}
 .card{
     border-color: #333;
 }
