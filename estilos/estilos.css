@@ -192,6 +192,12 @@ footer a{
 .contact a:hover{
     color: red;
 }
+@media only screen and (max-width: 510px){
+    .contact{ display: block;
+        text-align: center;
+        padding-bottom: 0%;
+}
+}
 .contact1{
     display: flex;
     justify-content: space-between;
@@ -200,7 +206,11 @@ footer a{
     background-position: center;
     background-size: cover;
     padding: 60px;
-    padding-bottom: px;
+}
+@media only screen and (max-width: 510px){
+    .contact1{ display: block;
+        text-align: center;
+}
 }
 .contact1 a{
     text-decoration: none;
