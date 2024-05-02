@@ -48,7 +48,7 @@ text-shadow: 0 0 4px;
     padding: 20px;
     display: flex;
     justify-content: space-evenly;
-    background-image: url('/Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg') ;
+    background-image: url(../Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg) ;
     background-color: burlywood;
     background-position: center;
     background-size: cover; 
@@ -108,7 +108,7 @@ footer a{
     text-shadow: 0 0 5px #fff;
 }
 .galeria{
-    background-image: url('../Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg');
+    background-image: url(../Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
     background-position: center;
     background-size: cover;
     display: grid;
